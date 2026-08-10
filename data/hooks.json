@@ -1,0 +1,32 @@
+[
+  {
+    "id": "buyback",
+    "name": "Buyback & Burn",
+    "icon": "🔥",
+    "description": "Use creator fees for token buybacks and burns."
+  },
+  {
+    "id": "rewards",
+    "name": "Holder Rewards",
+    "icon": "💎",
+    "description": "Distribute creator earnings to token holders."
+  },
+  {
+    "id": "liquidity",
+    "name": "Liquidity",
+    "icon": "💧",
+    "description": "Route fees toward liquidity."
+  },
+  {
+    "id": "treasury",
+    "name": "Treasury",
+    "icon": "🏦",
+    "description": "Send creator earnings to a project treasury."
+  },
+  {
+    "id": "custom",
+    "name": "Custom Hook",
+    "icon": "⚙️",
+    "description": "Build custom fee distribution logic."
+  }
+]
